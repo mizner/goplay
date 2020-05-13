@@ -1,0 +1,9 @@
+{
+    "name": "mizner",
+    "title": "engineer",
+    "fruit": {
+        "apple": "Red",
+        "orange": "Orange",
+        "banana": "Yellow"
+    }
+}
